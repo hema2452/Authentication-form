@@ -1,1 +1,1 @@
-# Authentication-form
+Basic react project for user registration.
